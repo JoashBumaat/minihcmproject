@@ -1,4 +1,4 @@
-# ChronoHCM — Mini HCM Time Tracking System
+ Mini HCM Time Tracking System
 
 A lightweight Human Capital Management (HCM) Time-In/Time-Out system built with **React**, **Node.js/Express**, and **Firebase** (Auth + Firestore).
 
